@@ -1,3 +1,4 @@
 # Muza
-Muza design. Kazan\n
-Some source code
+Muza design. Kazan 
+Some source code 
+https://alisagrdv.github.io/Muza/
